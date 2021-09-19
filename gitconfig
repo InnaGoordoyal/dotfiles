@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = innagoordoyal@gmail.com
+	name = inna goordoyal
